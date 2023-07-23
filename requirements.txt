@@ -1,0 +1,6 @@
+requests-toolbelt
+bs4
+requests
+colorama
+futures
+urllib3
